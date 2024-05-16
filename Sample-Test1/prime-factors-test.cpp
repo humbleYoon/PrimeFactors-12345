@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "../primeFactors/prime-factors_test.cpp"
+#include "../primeFactors/prime-factors.cpp"
 
 using namespace std;
 
