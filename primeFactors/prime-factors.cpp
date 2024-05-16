@@ -5,6 +5,8 @@ class PrimeFactor {
 public:
 	vector<int> of(int n) {
 		vector<int> ret = {};
+		if (n == 2)
+			ret.push_back(2);
 		return ret;
 	}
 };
